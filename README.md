@@ -20,3 +20,9 @@ percentBaselineSub: percentile considered for baseline subtraction
 
 call the function computeDFF_filled(..) with all the required input parameters
 
+# Required functions
+
+slideWinSub.m
+
+smooth2.m
+
