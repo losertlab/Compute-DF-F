@@ -1,5 +1,5 @@
 # Compute-DF-F
-Compute DF/F of fluorescence in Calcium images
+Compute DF/F of fluorescence intensity for each cell in Calcium images
 
 # Input parameters
 
