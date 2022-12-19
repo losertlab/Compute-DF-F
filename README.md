@@ -1,7 +1,7 @@
 # Compute-DF-F
 Compute DF/F of fluorescence in Calcium images
 
-Input parameters
+# Input parameters
 
 
 RegImg: motion corrected Calcium images (e.g. 512x512x10000 matrix if there are 10000 frames)
